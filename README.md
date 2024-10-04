@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul-Lichtenwalner
 - 👀 I’m studying Computer Science at Georgia State University
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’ve worked on projects using Python, Java, C, and GDScript
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
