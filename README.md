@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paul-Lichtenwalner
-- 👀 I’m studying Computer Science at Georgia State University
+- 👀 I’m a Computer Science major and Mathematics minor at Georgia State University
 - 🌱 I’ve worked on projects using Python, Java, C, and GDScript
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
